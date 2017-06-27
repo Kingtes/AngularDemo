@@ -1,5 +1,5 @@
 /**
- * Created by Kingt on 2017/6/26.
+ * Created by tianci on 2017/6/26.
  */
 export class Hero {
   id: number;
